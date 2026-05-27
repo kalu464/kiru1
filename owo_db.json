@@ -1,0 +1,975 @@
+{
+  "168835885826270": {
+    "cash": 12037531,
+    "inv": [],
+    "daily": 1779676327038,
+    "lastHunt": 1779637370751,
+    "kills": 94,
+    "bombWins": 3,
+    "protected": 1779937034036,
+    "dead": false,
+    "pokemon": [
+      {
+        "id": "thunderex",
+        "name": "Thunderex",
+        "type": "Electric",
+        "skill": "Chain Zap",
+        "maxStr": 390,
+        "currentStr": 390,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "growl",
+        "name": "Growl",
+        "type": "Normal",
+        "skill": "Scratch",
+        "maxStr": 80,
+        "currentStr": 80,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "bubbles",
+        "name": "Bubbles",
+        "type": "Water",
+        "skill": "Water Splash",
+        "maxStr": 75,
+        "currentStr": 0,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "shadez",
+        "name": "Shadez",
+        "type": "Shadow",
+        "skill": "Shadow Claw",
+        "maxStr": 260,
+        "currentStr": 260,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "terradon",
+        "name": "Terradon",
+        "type": "Earth",
+        "skill": "Earthquake",
+        "maxStr": 490,
+        "currentStr": 490,
+        "rarity": "legendary",
+        "minLvl": 12
+      },
+      {
+        "id": "aerodon",
+        "name": "Aerodon",
+        "type": "Wind",
+        "skill": "Tornado Slash",
+        "maxStr": 385,
+        "currentStr": 385,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "thunderex",
+        "name": "Thunderex",
+        "type": "Electric",
+        "skill": "Chain Zap",
+        "maxStr": 390,
+        "currentStr": 390,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "terran",
+        "name": "Terran",
+        "type": "Earth",
+        "skill": "Stone Throw",
+        "maxStr": 220,
+        "currentStr": 220,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "aquara",
+        "name": "Aquara",
+        "type": "Water",
+        "skill": "Water Bullet",
+        "maxStr": 230,
+        "currentStr": 230,
+        "rarity": "uncommon",
+        "minLvl": 3
+      }
+    ]
+  },
+  "196358103384236": {
+    "cash": 470,
+    "inv": [
+      "🐇 rabbit",
+      "🐺 wolf",
+      "🦊 fox",
+      "🦊 fox",
+      "🐺 wolf",
+      "🐻 bear"
+    ],
+    "daily": 0,
+    "lastHunt": 1779436176509
+  },
+  "55616252965106": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "273220703907893": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "81033768730733": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "7490573959400": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "256534202314758": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "166456390062152": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "258226520076343": {
+    "cash": 25,
+    "inv": [],
+    "daily": 1779853828823,
+    "kills": 93,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [
+      {
+        "id": "voltgod",
+        "name": "Voltgod",
+        "type": "Electric",
+        "skill": "Thunder God",
+        "maxStr": 510,
+        "currentStr": 510,
+        "rarity": "legendary",
+        "minLvl": 12
+      },
+      {
+        "id": "pebble",
+        "name": "Pebble",
+        "type": "Earth",
+        "skill": "Rock Toss",
+        "maxStr": 65,
+        "currentStr": 65,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "breezy",
+        "name": "Breezy",
+        "type": "Wind",
+        "skill": "Light Gust",
+        "maxStr": 85,
+        "currentStr": 85,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "psychix",
+        "name": "Psychix",
+        "type": "Psychic",
+        "skill": "Mind Blast",
+        "maxStr": 265,
+        "currentStr": 265,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "leafy",
+        "name": "Leafy",
+        "type": "Grass",
+        "skill": "Leaf Slap",
+        "maxStr": 70,
+        "currentStr": 70,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "blizzara",
+        "name": "Blizzara",
+        "type": "Ice",
+        "skill": "Ice Shard",
+        "maxStr": 225,
+        "currentStr": 225,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "aerodon",
+        "name": "Aerodon",
+        "type": "Wind",
+        "skill": "Tornado Slash",
+        "maxStr": 385,
+        "currentStr": 385,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "terravex",
+        "name": "Terravex",
+        "type": "Earth",
+        "skill": "Rock Crush",
+        "maxStr": 370,
+        "currentStr": 370,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "blizzara",
+        "name": "Blizzara",
+        "type": "Ice",
+        "skill": "Ice Shard",
+        "maxStr": 225,
+        "currentStr": 225,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "thunderex",
+        "name": "Thunderex",
+        "type": "Electric",
+        "skill": "Chain Zap",
+        "maxStr": 390,
+        "currentStr": 390,
+        "rarity": "rare",
+        "minLvl": 6
+      }
+    ],
+    "protected": 1779868187521
+  },
+  "221397578190894": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "56488081010822": {
+    "cash": 270,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "4334326677576": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "131752970452993": {
+    "cash": 0,
+    "inv": [
+      "🦊 fox"
+    ],
+    "daily": 1779691341204,
+    "lastHunt": 1779504867960,
+    "kills": 3,
+    "bombWins": 0,
+    "dead": false,
+    "protected": 1779863471331,
+    "pokemon": []
+  },
+  "23983265210602": {
+    "cash": 10220675,
+    "inv": [],
+    "daily": 1779625500881,
+    "kills": 7,
+    "bombWins": 5,
+    "dead": false,
+    "protected": 1779946217424,
+    "lastHunt": 1779684957320,
+    "pokemon": [
+      {
+        "id": "blizzara",
+        "name": "Blizzara",
+        "type": "Ice",
+        "skill": "Ice Shard",
+        "maxStr": 225,
+        "currentStr": 225,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "ember",
+        "name": "Ember",
+        "type": "Fire",
+        "skill": "Small Flame",
+        "maxStr": 100,
+        "currentStr": 100,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "aquara",
+        "name": "Aquara",
+        "type": "Water",
+        "skill": "Water Bullet",
+        "maxStr": 230,
+        "currentStr": 230,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "growl",
+        "name": "Growl",
+        "type": "Normal",
+        "skill": "Scratch",
+        "maxStr": 80,
+        "currentStr": 80,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "pyrodon",
+        "name": "Pyrodon",
+        "type": "Fire",
+        "skill": "Flame Burst",
+        "maxStr": 400,
+        "currentStr": 400,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "terran",
+        "name": "Terran",
+        "type": "Earth",
+        "skill": "Stone Throw",
+        "maxStr": 220,
+        "currentStr": 220,
+        "rarity": "uncommon",
+        "minLvl": 3
+      }
+    ]
+  },
+  "113838762512589": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "154941733736684": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "9161869893693": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "241252691927219": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "175587423457512": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "187377108672581": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "175192168992997": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "269484048822286": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "41094884667584": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "4815178444908": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0
+  },
+  "263788946633": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "12417270599818": {
+    "cash": 450,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "21329545818268": {
+    "cash": 450,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "17704475992135": {
+    "cash": 450,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "58566778040566": {
+    "cash": 450,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0
+  },
+  "176351642423410": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "183035014168788": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "90770342187165": {
+    "cash": 40,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "94090603536621": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false
+  },
+  "53245431017664": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false
+  },
+  "144783985098908": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "130627521253418": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "107138462531593": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "97135114592257": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "185315759284283": {
+    "cash": 720,
+    "inv": [],
+    "daily": 1779676353214,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "protected": 1779762770849,
+    "pokemon": []
+  },
+  "166683419394297": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "88893659603028": {
+    "cash": 215449,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "252669436371065": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "56625570254943": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "280594542018750": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "92324633833476": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "32380463100141": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true
+  },
+  "233337687949395": {
+    "cash": 35,
+    "inv": [],
+    "daily": 1779686766000,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [],
+    "protected": 1779773100193
+  },
+  "45660451688464": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "269462087442578": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 1,
+    "bombWins": 1,
+    "dead": true,
+    "pokemon": []
+  },
+  "46720989839427": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "90705917661390": {
+    "cash": 0,
+    "inv": [],
+    "daily": 1779694810571,
+    "kills": 11,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [
+      {
+        "id": "shadowix",
+        "name": "Shadowix",
+        "type": "Shadow",
+        "skill": "Dark Pulse",
+        "maxStr": 395,
+        "currentStr": 395,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "lumorix",
+        "name": "Lumorix",
+        "type": "Light",
+        "skill": "Solar Beam",
+        "maxStr": 375,
+        "currentStr": 375,
+        "rarity": "rare",
+        "minLvl": 6
+      },
+      {
+        "id": "bubbles",
+        "name": "Bubbles",
+        "type": "Water",
+        "skill": "Water Splash",
+        "maxStr": 75,
+        "currentStr": 75,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "shadez",
+        "name": "Shadez",
+        "type": "Shadow",
+        "skill": "Shadow Claw",
+        "maxStr": 260,
+        "currentStr": 260,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "voltix",
+        "name": "Voltix",
+        "type": "Electric",
+        "skill": "Static Spark",
+        "maxStr": 250,
+        "currentStr": 250,
+        "rarity": "uncommon",
+        "minLvl": 3
+      },
+      {
+        "id": "bubbles",
+        "name": "Bubbles",
+        "type": "Water",
+        "skill": "Water Splash",
+        "maxStr": 75,
+        "currentStr": 75,
+        "rarity": "common",
+        "minLvl": 0
+      },
+      {
+        "id": "voltgod",
+        "name": "Voltgod",
+        "type": "Electric",
+        "skill": "Thunder God",
+        "maxStr": 510,
+        "currentStr": 510,
+        "rarity": "legendary",
+        "minLvl": 12
+      },
+      {
+        "id": "sparky",
+        "name": "Sparky",
+        "type": "Electric",
+        "skill": "Tiny Zap",
+        "maxStr": 90,
+        "currentStr": 90,
+        "rarity": "common",
+        "minLvl": 0
+      }
+    ],
+    "protected": 1779780249572
+  },
+  "112417077997642": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "134274250477786": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "178443627008134": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "18765399998635": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "236945376555131": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "216978241396964": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "12048037589002": {
+    "cash": 6423140,
+    "inv": [],
+    "daily": 1779852670885,
+    "kills": 1,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [
+      {
+        "id": "pyrodon",
+        "name": "Pyrodon",
+        "type": "Fire",
+        "skill": "Flame Burst",
+        "maxStr": 400,
+        "currentStr": 400,
+        "rarity": "rare",
+        "minLvl": 6
+      }
+    ],
+    "protected": 1779867928428
+  },
+  "268938655097040": {
+    "cash": 40,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "217763918426218": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [],
+    "protected": 1779780231552
+  },
+  "108414168465456": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "202529736515761": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "171201808850994": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "63067702452401": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "271850709991565": {
+    "cash": 1132770,
+    "inv": [],
+    "daily": 1779781979428,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": [],
+    "protected": 1779867490127
+  },
+  "71318720487677": {
+    "cash": 652,
+    "inv": [],
+    "daily": 0,
+    "kills": 1,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "52639454781682": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "79406043258976": {
+    "cash": 9,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "168191590416548": {
+    "cash": 26,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "5549852733610": {
+    "cash": 200,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "87849646960892": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "186062647353591": {
+    "cash": 300,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "270880047403025": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "248829735641261": {
+    "cash": 400,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  },
+  "119534023364840": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "177193271472304": {
+    "cash": 500,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": true,
+    "pokemon": []
+  },
+  "258582918475931": {
+    "cash": 0,
+    "inv": [],
+    "daily": 0,
+    "kills": 0,
+    "bombWins": 0,
+    "dead": false,
+    "pokemon": []
+  }
+}
