@@ -1,10 +1,10 @@
 {
   "168835885826270": {
-    "cash": 12037531,
+    "cash": 1203767676768665675557531,
     "inv": [],
     "daily": 1779676327038,
     "lastHunt": 1779637370751,
-    "kills": 94,
+    "kills": 984,
     "bombWins": 3,
     "protected": 1779937034036,
     "dead": false,
@@ -35,7 +35,7 @@
         "type": "Water",
         "skill": "Water Splash",
         "maxStr": 75,
-        "currentStr": 0,
+        "currentStr": 75,
         "rarity": "common",
         "minLvl": 0
       },
